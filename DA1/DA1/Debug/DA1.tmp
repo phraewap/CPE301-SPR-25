@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\Debug\DA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1.map</FILE>
+  <FILE>DA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <KEY><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>165</LINE></KEY>
+  <L1><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>29</LINE></L1>
+  <EXITS_L1><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>37</LINE></EXITS_L1>
+  <STORE_IN_EEPROM><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>144</LINE></STORE_IN_EEPROM>
+  <LOAD_KEY><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>49</LINE></LOAD_KEY>
+  <MESSAGE><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>157</LINE></MESSAGE>
+  <TEA_EN><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>64</LINE></TEA_EN>
+  <STORE_DATA><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>126</LINE></STORE_DATA>
+  <LOAD_FROM_EEPROM><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>135</LINE></LOAD_FROM_EEPROM>
+  <TEA_LOOP><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>76</LINE></TEA_LOOP>
+  <EKEY><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>169</LINE></EKEY>
+  <DELTA><FILE>C:\Users\Minnie\Documents\Atmel Studio\7.0\DA1\DA1\main.asm</FILE><LINE>173</LINE></DELTA>
+ </LABELS>
+</ASSEMBLER_INFO>
